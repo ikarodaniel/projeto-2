@@ -1,8 +1,20 @@
-(
-margin: 0;
-padding: 90;
-)
-header{
-  background: color #c5a9a9; ;
-  font-size: 30px;
+*{
+margin: 0%;
+padding: 0%;
 }
+header{
+  background: color #969696; ;
+  font-size: 30px;
+  text-align: center;
+  display: flex;  
+}
+
+h1{
+  padding: 0 300px 0 210px;
+  margin: 1%;
+}
+html{
+   background-color: #a2a2a2;
+   
+}
+
